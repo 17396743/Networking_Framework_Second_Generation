@@ -1,0 +1,5 @@
+include ':2005a'
+include ':2005b'
+include ':mymvplibrary'
+include ':myhttptwolibrary'
+rootProject.name = "My Application30"
